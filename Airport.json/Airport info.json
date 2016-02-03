@@ -507,3 +507,158 @@
 		"northEastLng":
 		"freqGround": "118.100",
 		"freqTower": "119.500"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KCCR",
+		"imageName": "ccrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.700",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KHWD",
+		"imageName": "hwdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.400",
+		"freqTower": "120.200",
+		"freqApproach": "125.350"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KLVK",
+		"imageName": "lvkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "118.100",
+		"freqApproach": "123.850"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KNUQ",
+		"imageName": "nuqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "119.550",
+		"freqApproach": "134.500"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KOAK",
+		"imageName": "oakfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.300",
+		"freqApproach": "135.650"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KPAO",
+		"imageName": "paofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.000",
+		"freqTower": "118.600",
+		"freqApproach": "121.300"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KRHV",
+		"imageName": "rhvfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "119.800",
+		"freqApproach": "120.100"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KSCK",
+		"imageName": "sckfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.300",
+		"freqApproach": "123.850"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KSFO",
+		"imageName": "sfofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "120.500",
+		"freqApproach": "134.500"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KSJC",
+		"imageName": "sjcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "124.000",
+		"freqApproach": "120.100"
+	},
+	{
+	   	"region": "SanFran",
+		"ICAOcode": "KSQL",
+		"imageName": "sqlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "119.000",
+		"freqApproach": "133.950"
+	},
