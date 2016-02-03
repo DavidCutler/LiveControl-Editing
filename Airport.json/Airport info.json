@@ -1,0 +1,509 @@
+[
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KBUR",
+		"imageName": "burfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng": 
+		"freqGround": "123.900",
+		"freqTower": "118.700", 
+		"freqApproach": "120.40"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KCNO",
+		"imageName": "cnofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng": 
+		"freqGround": "121.600",
+		"freqTower": "118.500", 
+		"freqApproach": "135.40"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KCRQ",
+		"imageName": "crqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng": 
+		"freqGround": "121.800",
+		"freqTower": "118.600", 
+		"freqApproach": "127.300"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KEDW",
+		"imageName": "edwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng": 
+		"freqGround": "121.800",
+		"freqTower": "120.700", 
+		"freqApproach": "132.750"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KEMT",
+		"imageName": "emtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.900",
+		"freqTower": "121.200", 
+		"freqApproach": "125.500"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KFUL",
+		"imageName": "fulfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.900",
+		"freqTower": "121.200", 
+		"freqApproach": "125.500"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KHHR",
+		"imageName": "hhrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.100",
+		"freqTower": "121.100", 
+		"freqApproach": "124.300"
+	},
+	{
+		"region": "SoCal",
+		"ICAOcode":"KLAX",
+		"imageName": "laxfull.png",
+		"centerLat": 33.943414,
+		"centerLng": -118.408433,
+		"southWestLat": 33.92867,
+		"southWestLng": -118.43745,
+		"northEastLat": 33.95555,
+		"northEastLng": -118.37892,
+		"freqGround": "121.650",
+		"freqTower": "120.950", 
+		"freqApproach": "124.300",
+		"freqDeparture": "124.700",
+		"freqCenter": "133.100"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KLGB",
+		"imageName": "lgbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "133.000",
+		"freqTower": "119.400", 
+		"freqApproach": "124.650",
+		"freqDeparture": "127.200"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KMYF",
+		"imageName": "ymffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.220",
+		"freqTower": "119.200", 
+		"freqApproach": "124.350",
+		"freqDeparture": "119.600"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNFG",
+		"imageName": "nfgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "128.770",
+		"freqTower": "128.890", 
+		"freqApproach": "128.450",
+		"freqDeparture": "127.300"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNKX",
+		"imageName": "nkxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "128.620",
+		"freqTower": "135.200",
+		"freqApproach": "132.200",
+		"freqDeparture": "119.600"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNRS",
+		"imageName": "nrsfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.650"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNUC",
+		"imageName": "nucfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "119.550",
+		"freqTower": "126.750",
+		"freqApproach": "127.050"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNXP",
+		"imageName": "nxpfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "135.520"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KNZY",
+		"imageName": "nzyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.000",
+		"freqTower": "135.100",
+		"freqApproach": "125.150"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KOKB",
+		"imageName": "okbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "127.800",
+		"freqTower": "123.000",
+		"freqApproach": "127.300"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KONT",
+		"imageName": "ontfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.600",
+		"freqApproach": "119.650"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KPMD",
+		"imageName": "pmdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "123.700",
+		"freqApproach": "124.550"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KPOC",
+		"imageName": "pocfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.000",
+		"freqTower": "118.200",
+		"freqApproach": "125.500"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KPSP",
+		"imageName": "pspfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.700",
+		"freqApproach": "135.270"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KRAL",
+		"imageName": "ralfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "121.000",
+		"freqApproach": "135.400"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KRIV",
+		"imageName": "rivfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "127.650",
+		"freqApproach": "133.500"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KRNM",
+		"imageName": "rnmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "119.870",
+		"freqApproach": "132.200"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSAN",
+		"imageName": "sanfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "123.900",
+		"freqTower": "118.300",
+		"freqApproach": "124.350",
+		"freqDeparture": "119.600",
+		"freqCenter": "133.000"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSDM",
+		"imageName": "sdmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "124.400",
+		"freqTower": "126.500",
+		"freqApproach": "124.350"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSEE",
+		"imageName": "seefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "120.700",
+		"freqApproach": "124.350"
+			},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSLI",
+		"imageName": "slifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "126.950",
+		"freqTower": "123.850",
+		"freqApproach": "124.650"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSMO",
+		"imageName": "smofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.100",
+		"freqApproach": "124.300"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KSNA",
+		"imageName": "snafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "120.800",
+		"freqTower": "119.900",
+		"freqApproach": "121.300",
+		"freqDeparture": "128.100"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KTOA",
+		"imageName": "toafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "120.900",
+		"freqTower": "135.600",
+		"freqApproach": "124.300",
+		"freqDeparture": "127.200"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KVCV",
+		"imageName": "vcvfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "124.450",
+		"freqTower": "118.350",
+		"freqApproach": "124.550"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KVNY",
+		"imageName": "vnyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "120.200",
+		"freqApproach": "124.600"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KWHP",
+		"imageName": "whpfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.000",
+		"freqTower": "135.000",
+		"freqApproach": "120.400"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "KWJF",
+		"imageName": "wjffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "120.300",
+		"freqApproach": "126.100"
+	},
+    {
+	   	"region": "SoCal",
+		"ICAOcode": "MMTJ",
+		"imageName": "mtjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.100",
+		"freqTower": "119.500"
