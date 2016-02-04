@@ -884,3 +884,145 @@
 		"freqTower": "120.900",
 		"freqApproach": "124.350"
 	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TAPA",
+		"imageName": "apafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.200",
+		"freqApproach": "119.100"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TAPH",
+		"imageName": "aphfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "137.010"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TFFC",
+		"imageName": "ffcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "136.430"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TFFG",
+		"imageName": "ffgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.200"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TFFJ",
+		"imageName": "ffjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.450"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TFFR",
+		"imageName": "ffrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "118.400",
+		"freqApproach": "119.050"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TKPK",
+		"imageName": "kpkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.300",
+		"freqApproach": "119.600"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TKPN",
+		"imageName": "kpnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "120.500"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TNCM",
+		"imageName": "ncmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.700",
+		"freqApproach": "128.950"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TQPF",
+		"imageName": "qpffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.500",
+		"freqApproach": "118.700"
+	},
+	{
+	   	"region": "Caribbean",
+		"ICAOcode": "TRPG",
+		"imageName": "rpgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.800"
+	},
