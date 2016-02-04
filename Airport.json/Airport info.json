@@ -562,7 +562,8 @@
 		"northEastLng":
 		"freqGround": "121.850",
 		"freqTower": "119.550",
-		"freqApproach": "134.500"
+		"freqApproach": "134.500",
+		"freqDeparture": "121.300"
 	},
 	{
 	   	"region": "SanFran",
@@ -576,7 +577,9 @@
 		"northEastLng":
 		"freqGround": "121.900",
 		"freqTower": "118.300",
-		"freqApproach": "135.650"
+		"freqApproach": "135.650",
+		"freqDeparture": "120.900",
+		"freqCenter": "133.000"
 	},
 	{
 	   	"region": "SanFran",
@@ -590,7 +593,7 @@
 		"northEastLng":
 		"freqGround": "125.000",
 		"freqTower": "118.600",
-		"freqApproach": "121.300"
+		"freqDeparture": "121.300"
 	},
 	{
 	   	"region": "SanFran",
@@ -604,7 +607,8 @@
 		"northEastLng":
 		"freqGround": "121.650",
 		"freqTower": "119.800",
-		"freqApproach": "120.100"
+		"freqApproach": "120.100",
+		"freqDeparture": "121.300"
 	},
 	{
 	   	"region": "SanFran",
@@ -632,7 +636,8 @@
 		"northEastLng":
 		"freqGround": "121.800",
 		"freqTower": "120.500",
-		"freqApproach": "134.500"
+		"freqApproach": "134.500",
+		"freqDeparture": "120.90"
 	},
 	{
 	   	"region": "SanFran",
@@ -646,7 +651,8 @@
 		"northEastLng":
 		"freqGround": "121.700",
 		"freqTower": "124.000",
-		"freqApproach": "120.100"
+		"freqApproach": "120.100",
+		"freqDeparture": "121.300"
 	},
 	{
 	   	"region": "SanFran",
@@ -688,7 +694,8 @@
 		"northEastLng":
 		"freqGround": "121.900",
 		"freqTower": "118.700",
-		"freqApproach": "119.400"
+		"freqApproach": "119.400",
+		"freqDeparture": "126.550"
 	},
 	{
 	   	"region": "Oshkosh",
@@ -812,7 +819,8 @@
 		"northEastLng":
 		"freqGround": "121.900",
 		"freqTower": "118.700",
-		"freqApproach": "118.100"
+		"freqApproach": "118.100",
+		"freqCenter": "133.000"
 	},
 	{
 	   	"region": "Seattle",
@@ -840,7 +848,8 @@
 		"northEastLng":
 		"freqGround": "121.700",
 		"freqTower": "119.900",
-		"freqApproach": "119.200"
+		"freqApproach": "119.200",
+		"freqCenter": "133.100"
 	},
 	{
 	   	"region": "Seattle",
@@ -998,7 +1007,8 @@
 		"northEastLat": 
 		"northEastLng":
 		"freqTower": "118.700",
-		"freqApproach": "128.950"
+		"freqApproach": "128.950",
+		"freqCenter": "133.000"
 	},
 	{
 	   	"region": "Caribbean",
