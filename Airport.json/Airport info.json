@@ -662,3 +662,72 @@
 		"freqTower": "119.000",
 		"freqApproach": "133.950"
 	},
+	{
+	   	"region": "Oshkosh",
+		"ICAOcode": "KATW",
+		"imageName": "atwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.600",
+		"freqApproach": "126.300"
+	},
+	{
+	   	"region": "Oshkosh",
+		"ICAOcode": "KGRB",
+		"imageName": "grbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.700",
+		"freqApproach": "119.400"
+	},
+	{
+	   	"region": "Oshkosh",
+		"ICAOcode": "KMWC",
+		"imageName": "mwcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "120.500",
+		"freqApproach": "128.700"
+	},
+	{
+	   	"region": "Oshkosh",
+		"ICAOcode": "KOSH",
+		"imageName": "oshfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.500"
+	},
+	{
+	   	"region": "Oshkosh",
+		"ICAOcode": "KUES",
+		"imageName": "uesfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "123.700",
+		"freqApproach": "128.700"
+	},
