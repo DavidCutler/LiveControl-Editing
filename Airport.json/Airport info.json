@@ -731,3 +731,156 @@
 		"freqTower": "123.700",
 		"freqApproach": "128.700"
 	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KBFI",
+		"imageName": "bfifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "123.420",
+		"freqApproach": "119.200"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KGRF",
+		"imageName": "grffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.320",
+		"freqApproach": "120.100"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KHIO",
+		"imageName": "hiofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "126.000",
+		"freqApproach": "119.300"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KOLM",
+		"imageName": "olmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "124.400",
+		"freqApproach": "121.100"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KPAE",
+		"imageName": "paefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "120.200"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KPDX",
+		"imageName": "pdxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.700",
+		"freqApproach": "118.100"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KRNT",
+		"imageName": "rntfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "128.800",
+		"freqApproach": "119.200"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KSEA",
+		"imageName": "seafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.900",
+		"freqApproach": "119.200"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KTCM",
+		"imageName": "tcmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "125.150",
+		"freqTower": "124.800",
+		"freqApproach": "126.500"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KTIW",
+		"imageName": "tiwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.500",
+		"freqApproach": "120.100"
+	},
+	{
+	   	"region": "Seattle",
+		"ICAOcode": "KTTD",
+		"imageName": "ttdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "120.900",
+		"freqApproach": "124.350"
+	},
