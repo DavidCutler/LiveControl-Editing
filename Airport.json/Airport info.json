@@ -1553,3 +1553,168 @@
 		"freqTower": "118.100",
 		"freqApproach": "119.700"
 	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WIBT",
+		"imageName": "ibtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.500"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WIDD",
+		"imageName": "iddfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "118.300",
+		"freqApproach": "130.200"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMAP",
+		"imageName": "mapfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.400",
+		"freqTower": "128.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMBT",
+		"imageName": "mbtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.800"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKJ",
+		"imageName": "mkjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "122.500",
+		"freqApproach": "124.700"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKK",
+		"imageName": "mkkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.800",
+		"freqDeparture": "122.700",
+		"freqApproach": "129.45",
+		"freqCenter": "133.100"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKM",
+		"imageName": "mkmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "118.000"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAG",
+		"imageName": "sagfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.800",
+		"freqTower": "129.700",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAP",
+		"imageName": "sapfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.050",
+		"freqTower": "119.020",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAT",
+		"imageName": "satfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.000",
+		"freqTower": "122.000",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSSL",
+		"imageName": "sslfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "130.200",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSSS",
+		"imageName": "sssfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.720",
+		"freqTower": "118.600",
+		"freqApproach": "120.300",
+		"freqCenter": "133.000"
+	},
