@@ -1190,3 +1190,202 @@
 		"freqTower": "119.100",
 		"freqApproach": "120.10"
 	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KCGX",
+		"imageName": "cgxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "121.300",
+		"freqApproach": "118.400"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KCMI",
+		"imageName": "cmifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "120.400",
+		"freqApproach": "121.350"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KDBQ",
+		"imageName": "dbqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.500"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KDPA",
+		"imageName": "dpafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "124.500",
+		"freqApproach": "133.500"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KENW",
+		"imageName": "enwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.870",
+		"freqTower": "118.600",
+		"freqApproach": "120.150"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KJVL",
+		"imageName": "jvlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.800",
+		"freqApproach": "121.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMDW",
+		"imageName": "mdwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.700",
+		"freqApproach": "118.400"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMKE",
+		"imageName": "mkefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.100",
+		"freqApproach": "118.000",
+		"freqDeparture": "119.650"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMLI",
+		"imageName": "mlifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.400",
+		"freqApproach": "125.950"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KORD",
+		"imageName": "ordfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.670",
+		"freqTower": "120.750",
+		"freqApproach": "119.000",
+		"freqDeparture": "125.000",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KPIA",
+		"imageName": "piafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "124.000",
+		"freqApproach": "124.67"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KPWK",
+		"imageName": "pwkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.900",
+		"freqApproach": "120.550",
+		"freqDeparture": "125.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KRFD",
+		"imageName": "rfdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.300",
+		"freqApproach": "121.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KUGN",
+		"imageName": "ugnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "120.050",
+		"freqApproach": "120.550"
+	},
