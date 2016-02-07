@@ -896,7 +896,7 @@
 	{
 	   	"region": "Caribbean",
 		"ICAOcode": "TAPA",
-		"imageName": "apafull.png",
+		"imageName": "tapafull.png",
 		"centerLat":
 		"centerLng":
 		"southWestLat":
@@ -1035,4 +1035,158 @@
 		"northEastLng":
 		"freqGround": "121.900",
 		"freqTower": "118.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KAFF",
+		"imageName": "afffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.120",
+		"freqTower": "124.150"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KAPA",
+		"imageName": "apafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.900",
+		"freqApproach": "132.75"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KASE",
+		"imageName": "asefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.850",
+		"freqApproach": "123.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KBJC",
+		"imageName": "bjcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "123.950",
+		"freqApproach": "126.100"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KBKF",
+		"imageName": "bkffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "121.000",
+		"freqApproach": "128.450"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KCOS",
+		"imageName": "cosfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "133.150",
+		"freqApproach": "118.50",
+		"freqDeparture": "124.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KDEN",
+		"imageName": "denfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "124.300",
+		"freqApproach": "119.300",
+		"freqDeparture": "127.050",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KEGE",
+		"imageName": "egefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KFCS",
+		"imageName": "fcsfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.500",
+		"freqDeparture": "124.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KFTG",
+		"imageName": "ftgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "124.700",
+		"freqTower": "120.200",
+		"freqDeparture": "128.250"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KPUB",
+		"imageName": "pubfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.100",
+		"freqApproach": "120.10"
 	},
