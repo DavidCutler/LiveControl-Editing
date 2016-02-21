@@ -1964,3 +1964,282 @@
 		"freqTower": "118.650",
 		"freqApproach": "124.150"
 	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFFE",
+		"imageName": "ffefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "128.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFLA",
+		"imageName": "flafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "129.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFLD",
+		"imageName": "fldfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.600"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOA",
+		"imageName": "foafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "119.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOB",
+		"imageName": "fobfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.900",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOC",
+		"imageName": "focfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "122.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOE",
+		"imageName": "foefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "119.700",
+		"freqApproach": "118.120"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOJ",
+		"imageName": "fojfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "122.100",
+		"freqApproach": "122.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOP",
+		"imageName": "fopfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.200",
+		"freqApproach": "118.570"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOQ",
+		"imageName": "foqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.450"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOZ",
+		"imageName": "fozfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.400"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPB",
+		"imageName": "fpbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.400",
+		"freqApproach": "118.150",
+		"freqDeparture": "124.350"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPC",
+		"imageName": "fpcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "123.300"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPG",
+		"imageName": "fpgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.970",
+		"freqTower": "118.650",
+		"freqApproach": "118.150",
+		"freqDeparture": "124.350",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPM",
+		"imageName": "fpmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "121.100",
+		"freqApproach": "118.050"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPN",
+		"imageName": "fpnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "119.300",
+		"freqApproach": "120.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPO",
+		"imageName": "fpofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.700",
+		"freqApproach": "118.850",
+		"freqDeparture": "124.350"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPT",
+		"imageName": "fptfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "121.200",
+		"freqApproach": "118.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPV",
+		"imageName": "fpvfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.870",
+		"freqTower": "122.100",
+		"freqApproach": "119.420"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPX",
+		"imageName": "fpxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "126.950"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPZ",
+		"imageName": "fpzfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.950",
+		"freqTower": "118.000"
+	},
