@@ -896,7 +896,7 @@
 	{
 	   	"region": "Caribbean",
 		"ICAOcode": "TAPA",
-		"imageName": "apafull.png",
+		"imageName": "tapafull.png",
 		"centerLat":
 		"centerLng":
 		"southWestLat":
@@ -1035,4 +1035,1211 @@
 		"northEastLng":
 		"freqGround": "121.900",
 		"freqTower": "118.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KAFF",
+		"imageName": "afffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.120",
+		"freqTower": "124.150"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KAPA",
+		"imageName": "apafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.900",
+		"freqApproach": "132.75"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KASE",
+		"imageName": "asefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.850",
+		"freqApproach": "123.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KBJC",
+		"imageName": "bjcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "123.950",
+		"freqApproach": "126.100"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KBKF",
+		"imageName": "bkffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "121.000",
+		"freqApproach": "128.450"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KCOS",
+		"imageName": "cosfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "133.150",
+		"freqApproach": "118.50",
+		"freqDeparture": "124.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KDEN",
+		"imageName": "denfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "124.300",
+		"freqApproach": "119.300",
+		"freqDeparture": "127.050",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KEGE",
+		"imageName": "egefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.800"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KFCS",
+		"imageName": "fcsfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.500",
+		"freqDeparture": "124.000"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KFTG",
+		"imageName": "ftgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "124.700",
+		"freqTower": "120.200",
+		"freqDeparture": "128.250"
+	},
+	{
+	   	"region": "Denver",
+		"ICAOcode": "KPUB",
+		"imageName": "pubfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.100",
+		"freqApproach": "120.10"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KCGX",
+		"imageName": "cgxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "121.300",
+		"freqApproach": "118.400"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KCMI",
+		"imageName": "cmifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "120.400",
+		"freqApproach": "121.350"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KDBQ",
+		"imageName": "dbqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.500"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KDPA",
+		"imageName": "dpafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "124.500",
+		"freqApproach": "133.500"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KENW",
+		"imageName": "enwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.870",
+		"freqTower": "118.600",
+		"freqApproach": "120.150"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KJVL",
+		"imageName": "jvlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.800",
+		"freqApproach": "121.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMDW",
+		"imageName": "mdwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.700",
+		"freqApproach": "118.400"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMKE",
+		"imageName": "mkefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "119.100",
+		"freqApproach": "118.000",
+		"freqDeparture": "119.650"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KMLI",
+		"imageName": "mlifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.400",
+		"freqApproach": "125.950"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KORD",
+		"imageName": "ordfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.670",
+		"freqTower": "120.750",
+		"freqApproach": "119.000",
+		"freqDeparture": "125.000",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KPIA",
+		"imageName": "piafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "124.000",
+		"freqApproach": "124.67"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KPWK",
+		"imageName": "pwkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.900",
+		"freqApproach": "120.550",
+		"freqDeparture": "125.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KRFD",
+		"imageName": "rfdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.300",
+		"freqApproach": "121.000"
+	},
+	{
+	   	"region": "Chicago",
+		"ICAOcode": "KUGN",
+		"imageName": "ugnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "120.050",
+		"freqApproach": "120.550"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHHI",
+		"imageName": "hhifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "126.300",
+		"freqApproach": "118.300",
+		"freqDeparture": "124.800"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHJR",
+		"imageName": "hjrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "123.800",
+		"freqTower": "132.600",
+		"freqApproach": "118.300"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHKO",
+		"imageName": "hkofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.300"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHMK",
+		"imageName": "hmkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "125.700"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHMU",
+		"imageName": "hmufull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.900"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHNG",
+		"imageName": "hngfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.700",
+		"freqApproach": "125.000"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHNL",
+		"imageName": "hnlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.100",
+		"freqApproach": "118.300",
+		"freqDeparture": "124.800",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHNP",
+		"imageName": "hnpfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "144.080",
+		"freqTower": "152.980"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHNY",
+		"imageName": "hnyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.900",
+		"freqTower": "118.370"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHOG",
+		"imageName": "hogfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.700",
+		"freqApproach": "119.500",
+		"freqDeparture": "120.200"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHSF",
+		"imageName": "hsffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "126.300",
+		"freqApproach": "126.000"
+	},
+	{
+	   	"region": "Hawaii",
+		"ICAOcode": "PHTO",
+		"imageName": "htofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.100",
+		"freqApproach": "119.700"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WIBT",
+		"imageName": "ibtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.500"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WIDD",
+		"imageName": "iddfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "118.300",
+		"freqApproach": "130.200"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMAP",
+		"imageName": "mapfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.400",
+		"freqTower": "128.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMBT",
+		"imageName": "mbtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.800"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKJ",
+		"imageName": "mkjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "122.500",
+		"freqApproach": "124.700"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKK",
+		"imageName": "mkkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.800",
+		"freqDeparture": "122.700",
+		"freqApproach": "129.45",
+		"freqCenter": "133.100"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WMKM",
+		"imageName": "mkmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "118.000"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAG",
+		"imageName": "sagfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.800",
+		"freqTower": "129.700",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAP",
+		"imageName": "sapfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.050",
+		"freqTower": "119.020",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSAT",
+		"imageName": "satfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.000",
+		"freqTower": "122.000",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSSL",
+		"imageName": "sslfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "130.200",
+		"freqApproach": "120.300"
+	},
+	{
+	   	"region": "SingKuala",
+		"ICAOcode": "WSSS",
+		"imageName": "sssfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.720",
+		"freqTower": "118.600",
+		"freqApproach": "120.300",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KBDR",
+		"imageName": "bdrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.900",
+		"freqApproach": "124.070"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KCDW",
+		"imageName": "cdwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.800",
+		"freqApproach": "127.600",
+		"freqDeparture": "119.200"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KDXR",
+		"imageName": "dxrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "119.400",
+		"freqApproach": "126.400"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KEWR",
+		"imageName": "ewrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.300",
+		"freqApproach": "127.600",
+		"freqDeparture": "119.200"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KFRG",
+		"imageName": "frgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "125.200",
+		"freqApproach": "118.400",
+		"freqDeparture": "125.700"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KHPN",
+		"imageName": "hpnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.820",
+		"freqTower": "118.570",
+		"freqApproach": "120.800",
+		"freqDeparture": "120.550"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KISP",
+		"imageName": "ispfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "135.300",
+		"freqTower": "124.300",
+		"freqApproach": "120.050"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KJFK",
+		"imageName": "jfkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "119.100",
+		"freqApproach": "123.700",
+		"freqDeparture": "124.750",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KLGA",
+		"imageName": "lgafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.700",
+		"freqApproach": "118.000",
+		"freqDeparture": "120.400"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KMMU",
+		"imageName": "mmufull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.100",
+		"freqApproach": "127.600",
+		"freqDeparture": "119.200"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KNEL",
+		"imageName": "nelfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.370",
+		"freqTower": "127.770",
+		"freqApproach": "124.150"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KOXC",
+		"imageName": "oxcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "118.470",
+		"freqApproach": "124.070"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KPOU",
+		"imageName": "poufull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "124.000"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KSWF",
+		"imageName": "swffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "121.000",
+		"freqApproach": "132.750"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KTEB",
+		"imageName": "tebfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.500",
+		"freqApproach": "127.600",
+		"freqDeparture": "126.700"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KTTN",
+		"imageName": "ttnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.700",
+		"freqApproach": "123.800"
+	},
+	{
+	   	"region": "NewYork",
+		"ICAOcode": "KWRI",
+		"imageName": "wrifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.650",
+		"freqApproach": "124.150"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFFE",
+		"imageName": "ffefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "128.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFLA",
+		"imageName": "flafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "129.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFLD",
+		"imageName": "fldfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.600"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOA",
+		"imageName": "foafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "119.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOB",
+		"imageName": "fobfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.900",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOC",
+		"imageName": "focfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "122.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOE",
+		"imageName": "foefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "119.700",
+		"freqApproach": "118.120"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOJ",
+		"imageName": "fojfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "122.100",
+		"freqApproach": "122.700"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOP",
+		"imageName": "fopfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.200",
+		"freqApproach": "118.570"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOQ",
+		"imageName": "foqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.450"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFOZ",
+		"imageName": "fozfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.400"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPB",
+		"imageName": "fpbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.400",
+		"freqApproach": "118.150",
+		"freqDeparture": "124.350"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPC",
+		"imageName": "fpcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "123.300"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPG",
+		"imageName": "fpgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.970",
+		"freqTower": "118.650",
+		"freqApproach": "118.150",
+		"freqDeparture": "124.350",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPM",
+		"imageName": "fpmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "121.100",
+		"freqApproach": "118.050"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPN",
+		"imageName": "fpnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "119.300",
+		"freqApproach": "120.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPO",
+		"imageName": "fpofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.700",
+		"freqApproach": "118.850",
+		"freqDeparture": "124.350"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPT",
+		"imageName": "fptfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "121.200",
+		"freqApproach": "118.800"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPV",
+		"imageName": "fpvfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.870",
+		"freqTower": "122.100",
+		"freqApproach": "119.420"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPX",
+		"imageName": "fpxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "126.950"
+	},
+	{
+	   	"region": "Paris",
+		"ICAOcode": "LFPZ",
+		"imageName": "fpzfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.950",
+		"freqTower": "118.000"
 	},
