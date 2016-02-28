@@ -1,13 +1,18 @@
-# LiveControl Charts Editing Repository. Charts at http://kiltmchaggis.com/tikiwiki1/tiki-index.php?page=ATC 
-Contact David at dcuts712@gmail.com.
+# LiveControl Editing Repository
 
-Colors used for editing (Hex Codes): 
+### Charts: 
+ http://kiltmchaggis.com/tikiwiki1/tiki-index.php?page=ATC 
+
+### Contact David:
+ dcuts712@gmail.com
+
+### Chart Hex Color Codes: 
 - Buildings: A70000
 - Main Terminals: 4998D4
 - Movement Areas: 006688
 - Grass: 007426
 
-Region Todo List:
+### Region Todo List:
 - Amsterdam
 - ~~Caribbean~~
 - ~~Chicago~~
