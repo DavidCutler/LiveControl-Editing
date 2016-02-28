@@ -2243,3 +2243,143 @@
 		"freqGround": "121.950",
 		"freqTower": "118.000"
 	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KAGS",
+		"imageName": "agsfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.700",
+		"freqApproach": "119.150"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KCAE",
+		"imageName": "caefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "119.500",
+		"freqApproach": "124.150"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KCLT",
+		"imageName": "cltfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "126.400",
+		"freqApproach": "128.320",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KFLO",
+		"imageName": "flofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "125.100",
+		"freqApproach": "118.600"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KHFF",
+		"imageName": "hfffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "128.350",
+		"freqTower": "121.000",
+		"freqApproach": "127.800"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KJQF",
+		"imageName": "jqffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.850",
+		"freqTower": "134.650",
+		"freqApproach": "128.320"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KMMT",
+		"imageName": "mmtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "127.620",
+		"freqTower": "132.400",
+		"freqApproach": "125.400"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KPOB",
+		"imageName": "pobfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "124.550",
+		"freqTower": "135.020",
+		"freqApproach": "125.170"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KSSC",
+		"imageName": "sscfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "126.100",
+		"freqTower": "126.650",
+		"freqApproach": "125.400"
+	},
+	{
+	   	"region": "Charlotte",
+		"ICAOcode": "KVUJ",
+		"imageName": "vujfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "126.270"
+	},
