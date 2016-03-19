@@ -27,4 +27,4 @@
 - ~~Singapore & Kuala Lumpur~~
 - ~~Southern California~~
 - South Florida
-- Sydney
+- ~~Sydney~~
