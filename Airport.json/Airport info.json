@@ -2383,3 +2383,150 @@
 		"freqGround": "121.750",
 		"freqTower": "126.270"
 	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YGDO",
+		"imageName": "gdofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "124.500"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YPEC",
+		"imageName": "pecfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.700"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSBK",
+		"imageName": "sbkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "119.900"
+		"freqTower": "123.600",
+		"freqApproach": "128.300",
+		"freqDeparture": "118.400"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSCB",
+		"imageName": "scbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.700",
+		"freqApproach": "124.500"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSCN",
+		"imageName": "scnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.100",
+		"freqApproach": "124.550"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSNW",
+		"imageName": "snwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "135.850",
+		"freqTower": "118.850",
+		"freqApproach": "123.500"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSRI",
+		"imageName": "srifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "133.050",
+		"freqApproach": "124.550"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YSSY",
+		"imageName": "ssyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "120.500",
+		"freqApproach": "124.400",
+		"freqDeparture": "118.400",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YWBN",
+		"imageName": "wbnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "124.550"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YWIO",
+		"imageName": "wiofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "124.550"
+	},
+	{
+	   	"region": "Sydney",
+		"ICAOcode": "YWVA",
+		"imageName": "wvafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.800"
+	},
