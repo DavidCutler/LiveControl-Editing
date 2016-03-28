@@ -2530,3 +2530,356 @@
 		"northEastLng":
 		"freqTower": "125.800"
 	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "06FA",
+		"imageName": "6fafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.650",
+		"freqTower": "120.400",
+		"freqApproach": "124.600"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KAPF",
+		"imageName": "apffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.600",
+		"freqTower": "128.500",
+		"freqApproach": "119.750"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KBCT",
+		"imageName": "bctfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.420",
+		"freqApproach": "125.200",
+		"freqDeparture": "127.350"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KBOW",
+		"imageName": "bowfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "121.200",
+		"freqApproach": "119.900"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KFLL",
+		"imageName": "fllfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.400",
+		"freqTower": "119.300",
+		"freqApproach": "118.100",
+		"freqDeparture": "126.050"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KFMY",
+		"imageName": "fmyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.000",
+		"freqApproach": "126.800"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KFPR",
+		"imageName": "fprfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "119.550",
+		"freqTower": "128.200"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KFXE",
+		"imageName": "fxefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "120.900",
+		"freqApproach": "119.700"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KHST",
+		"imageName": "hstfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "133.450",
+		"freqApproach": "123.800"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KHWO",
+		"imageName": "hwofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "120.450",
+		"freqTower": "134.300",
+		"freqApproach": "128.600"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KLAL",
+		"imageName": "lalfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.400",
+		"freqTower": "124.500",
+		"freqApproach": "120.650"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KMCF",
+		"imageName": "mcffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "118.570",
+		"freqTower": "123.700",
+		"freqApproach": "124.950"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KMIA",
+		"imageName": "miafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.300",
+		"freqApproach": "120.500",
+		"freqDeparture": "119.450",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KOPF",
+		"imageName": "opffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.600",
+		"freqApproach": "128.600"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KPBI",
+		"imageName": "pbifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "118.750",
+		"freqApproach": "125.200",
+		"freqDeparture": "121.350"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KPGD",
+		"imageName": "pgdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "119.550",
+		"freqTower": "121.000",
+		"freqApproach": "125.150"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KPIE",
+		"imageName": "piefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "128.400",
+		"freqApproach": "125.300"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KPMP",
+		"imageName": "pmpfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "125.400",
+		"freqApproach": "119.700"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KRSW",
+		"imageName": "rswfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "128.750",
+		"freqApproach": "119.750"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KSPG",
+		"imageName": "spgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "127.400",
+		"freqApproach": "119.650"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KSRQ",
+		"imageName": "srqfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "120.100",
+		"freqApproach": "119.650"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KSUA",
+		"imageName": "suafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "126.600",
+		"freqApproach": "128.300"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KTMB",
+		"imageName": "tmbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "134.600",
+		"freqDeparture": "125.500"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KTPA",
+		"imageName": "tpafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.350",
+		"freqTower": "119.050",
+		"freqApproach": "118.150"
+	},
+	{
+	   	"region": "SoFlo",
+		"ICAOcode": "KVRB",
+		"imageName": "vrbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "127.450",
+		"freqTower": "126.300"
+	},
