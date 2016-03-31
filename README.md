@@ -26,5 +26,5 @@
 - ~~Seattle~~
 - ~~Singapore & Kuala Lumpur~~
 - ~~Southern California~~
-- South Florida
+- ~~South Florida~~
 - ~~Sydney~~
