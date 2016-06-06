@@ -2883,3 +2883,789 @@
 		"freqGround": "127.450",
 		"freqTower": "126.300"
 	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBB",
+		"imageName": "gbbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "118.300",
+		"freqApproach": "131.000"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBE",
+		"imageName": "gbefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.180",
+		"freqApproach": "123.830"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBG",
+		"imageName": "gbgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.120"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBN",
+		"imageName": "gbnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "134.870"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBT",
+		"imageName": "gbtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.170"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGBW",
+		"imageName": "gbwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "124.020"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGDL",
+		"imageName": "gdlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "129.470",
+		"freqTower": "122.170",
+		"freqApproach": "118.420"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGDM",
+		"imageName": "gdmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "130.750",
+		"freqTower": "130.750",
+		"freqApproach": "126.700"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGGW",
+		"imageName": "ggwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.750",
+		"freqTower": "122.170",
+		"freqApproach": "121.600",
+		"freqDeparture": "129.550"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHH",
+		"imageName": "ghhfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "119.470",
+		"freqApproach": "119.470"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHI",
+		"imageName": "ghifull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.200"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHJ",
+		"imageName": "ghjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "123.250"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHL",
+		"imageName": "ghlfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "126.250",
+		"freqApproach": "125.250"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHN",
+		"imageName": "ghnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.280"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGHO",
+		"imageName": "ghofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "130.450"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGKA",
+		"imageName": "gkafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "123.150",
+		"freqApproach": "123.150"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGKB",
+		"imageName": "gkbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "134.800",
+		"freqApproach": "129.400"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGKH",
+		"imageName": "gkhfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.000"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGKK",
+		"imageName": "gkkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "124.220",
+		"freqApproach": "126.820"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGKR",
+		"imageName": "gkrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.600"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLC",
+		"imageName": "glcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.820",
+		"freqTower": "118.070",
+		"freqApproach": "132.700"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLD",
+		"imageName": "gldfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "130.720"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLF",
+		"imageName": "glffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.500",
+		"freqApproach": "130.050"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLG",
+		"imageName": "glgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.250"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLJ",
+		"imageName": "gljfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.400"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLK",
+		"imageName": "glkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.300"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLL",
+		"imageName": "gllfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.700",
+		"freqTower": "118.500",
+		"freqApproach": "119.720",
+		"freqDeparture": "120.520",
+		"freqCenter": "133.000"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLM",
+		"imageName": "glmfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.600"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGLS",
+		"imageName": "glsfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "123.200"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGMC",
+		"imageName": "gmcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "127.720",
+		"freqApproach": "130.770"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGMD",
+		"imageName": "gmdfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "128.530",
+		"freqApproach": "120.700"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGNX",
+		"imageName": "gnxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.900",
+		"freqTower": "124.000",
+		"freqApproach": "134.170"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSC",
+		"imageName": "gscfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.900",
+		"freqApproach": "123.600"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSF",
+		"imageName": "gsffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "129.720"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSG",
+		"imageName": "gsgfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.800"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSL",
+		"imageName": "gslfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "130.550"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSP",
+		"imageName": "gspfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.330"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSR",
+		"imageName": "gsrfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.430"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSS",
+		"imageName": "gssfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.720",
+		"freqTower": "123.800",
+		"freqApproach": "120.620"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSU",
+		"imageName": "gsufull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.070"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGSX",
+		"imageName": "gsxfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "123.520"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGTB",
+		"imageName": "gtbfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "121.780"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGTC",
+		"imageName": "gtcfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.850"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGTF",
+		"imageName": "gtffull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "123.420"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGTK",
+		"imageName": "gtkfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.950",
+		"freqTower": "133.420"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGUB",
+		"imageName": "gubfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.800",
+		"freqTower": "127.150",
+		"freqApproach": "120.900"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGUL",
+		"imageName": "gulfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "136.500"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGUN",
+		"imageName": "gunfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.670",
+		"freqTower": "122.550",
+		"freqApproach": "136.500"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGUW",
+		"imageName": "guwfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGUY",
+		"imageName": "guyfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "119.970",
+		"freqApproach": "134.050"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGVA",
+		"imageName": "gvafull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "119.150",
+		"freqApproach": "133.750"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGVN",
+		"imageName": "gvnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "121.720",
+		"freqTower": "123.720",
+		"freqApproach": "127.250"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGVO",
+		"imageName": "gvofull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "131.300"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGVP",
+		"imageName": "gvpfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "118.270",
+		"freqApproach": "123.300"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGWN",
+		"imageName": "gwnfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "130.420"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGWU",
+		"imageName": "gwufull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.670",
+		"freqApproach": "126.450",
+		"freqDeparture": "129.120"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGXH",
+		"imageName": "gxhfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "128.900"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGXJ",
+		"imageName": "gxjfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqGround": "122.100",
+		"freqTower": "122.100",
+		"freqApproach": "130.200"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGXT",
+		"imageName": "gxtfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "125.520",
+		"freqApproach": "130.200"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGYE",
+		"imageName": "gyefull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "120.420",
+		"freqDeparture": "119.370"
+	},
+	{
+	   	"region": "London",
+		"ICAOcode": "EGYM",
+		"imageName": "gymfull.png",
+		"centerLat":
+		"centerLng":
+		"southWestLat":
+		"southWestLng":
+		"northEastLat": 
+		"northEastLng":
+		"freqTower": "122.100",
+		"freqApproach": "124.150"
+	},
+]
